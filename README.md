@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **AprShine/AprShine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
+<h1 align="center">✨This is aprshine's small space✨</h1>
+<div align="center">
+    <p>Hello, Welcome to my page!☺️</p>
+    <p>this is a person who may be not very good but is always improving.🌱</p>
+    <img src="https://github-readme-stats.vercel.app/api?username=AprShine">
+</div>
+<p>- 🔭 I’m currently working on going to a higher university</p>
+<p>- 🌱 I’m currently learning the frontend toolchain</p>
+<p>- 💬 Ask me about: Hope to participate an open source program to make friends</p>
